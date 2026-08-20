@@ -57,5 +57,5 @@ No API key or OpenAI key needed for the demo — runs entirely with simulated ob
 
 - [xproof.app](https://xproof.app)
 - Docs (LLM-readable): [xproof.app/llms.txt](https://xproof.app/llms.txt)
-- [PyPI: xproof](https://pypi.org/project/xproof)
+- [PyPI: xproof](https://pypi.org/project/prove-before-act)
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python)
