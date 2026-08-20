@@ -1,4 +1,4 @@
-# xproof-examples
+# prove-before-act-examples
 
 Standalone examples showing how to certify AI agent outputs on the **MultiversX blockchain** using [xProof](https://xproof.app).
 
@@ -35,7 +35,7 @@ AI agents: read **[xproof.app/llms.txt](https://xproof.app/llms.txt)** — one p
 
 ## Links
 
-- PyPI: [pypi.org/project/xproof](https://pypi.org/project/prove-before-act)
+- PyPI: [pypi.org/project/prove-before-act](https://pypi.org/project/prove-before-act)
 - npm: [npmjs.com/package/@xproof/xproof](https://www.npmjs.com/package/@xproof/xproof)
 - Docs (LLM-readable): [xproof.app/llms.txt](https://xproof.app/llms.txt)
 - GitHub (SDK): [github.com/jasonxkensei/xproof](https://github.com/jasonxkensei/xproof)
