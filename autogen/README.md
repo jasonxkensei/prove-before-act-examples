@@ -44,5 +44,5 @@ No API key or LLM required — the demo uses simulated agents and a mock xProof 
 
 - [xproof.app](https://xproof.app)
 - Docs (LLM-readable): [xproof.app/llms.txt](https://xproof.app/llms.txt)
-- [PyPI: xproof](https://pypi.org/project/xproof)
+- [PyPI: xproof](https://pypi.org/project/prove-before-act)
 - [AutoGen](https://github.com/microsoft/autogen)
