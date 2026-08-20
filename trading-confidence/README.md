@@ -110,5 +110,5 @@ console.log(trail.isFinalized); // true
 
 - [xproof.app](https://xproof.app)
 - Docs (LLM-readable): [xproof.app/llms.txt](https://xproof.app/llms.txt)
-- [PyPI: xproof](https://pypi.org/project/xproof)
+- [PyPI: xproof](https://pypi.org/project/prove-before-act)
 - [npm: @xproof/xproof](https://www.npmjs.com/package/@xproof/xproof)
